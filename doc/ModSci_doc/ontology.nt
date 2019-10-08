@@ -3,7 +3,6 @@
 <https://w3id.org/skgo/modsci#> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/2004/02/skos/core> .
 <https://w3id.org/skgo/modsci#> <http://www.w3.org/2002/07/owl#imports> <http://xmlns.com/foaf/0.1/> .
 <https://w3id.org/skgo/modsci#> <http://purl.org/dc/elements/1.1/creator> "Said Fathalla" .
-<https://w3id.org/skgo/modsci#> <http://purl.org/dc/terms/contributor> <https://scholar.google.de/citations?user=JOI-7d0AAAAJ&hl=en> .
 <https://w3id.org/skgo/modsci#> <http://purl.org/dc/terms/created> "2019-09-01"@en .
 <https://w3id.org/skgo/modsci#> <http://purl.org/dc/terms/description> "ModSci is a reference ontology for modelling different types of modern sciences and related entities, such as scientific discoveries, renowned scientists, instruments, phenomena ... etc."@en .
 <https://w3id.org/skgo/modsci#> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0/> .

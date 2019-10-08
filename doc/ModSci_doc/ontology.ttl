@@ -11,7 +11,6 @@
                                  owl:imports <http://www.w3.org/2004/02/skos/core> ,
                                              <http://xmlns.com/foaf/0.1/> ;
                                  <http://purl.org/dc/elements/1.1/creator> "Said Fathalla" ;
-                                 <http://purl.org/dc/terms/contributor> <https://scholar.google.de/citations?user=JOI-7d0AAAAJ&hl=en> ;
                                  <http://purl.org/dc/terms/created> "2019-09-01"@en ;
                                  <http://purl.org/dc/terms/description> "ModSci is a reference ontology for modelling different types of modern sciences and related entities, such as scientific discoveries, renowned scientists, instruments, phenomena ... etc."@en ;
                                  <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0/> ;
