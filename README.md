@@ -23,5 +23,5 @@ The SKGO ontologies can be browsed online, through web-based repository front-en
 - and AberOWL [http://aber-owl.net/ontology/ModSci/].
 
 ## Documentation
-The Wizard for documenting ontologies (WIDOCO)[https://github.com/dgarijo/Widoco] is used to create HTML documentation for the SKGO ontologies, thus enabling human understandability of the ontologies.
+The Wizard for documenting ontologies [WIDOCO](https://github.com/dgarijo/Widoco) is used to create HTML documentation for the SKGO ontologies, thus enabling human understandability of the ontologies.
 - documentation for ModSci is available at [http://tiny.cc/ti62dz]
